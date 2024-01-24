@@ -6,9 +6,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# H1 Header
-## H2 Header
-
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
